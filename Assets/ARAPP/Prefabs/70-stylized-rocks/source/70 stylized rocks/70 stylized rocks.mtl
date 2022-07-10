@@ -1,0 +1,772 @@
+# Blender MTL File: 'stylized rocks.blend'
+# Material Count: 70
+
+newmtl stylized_rock_01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 1.png
+
+newmtl stylized_rock_02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 2.png
+
+newmtl stylized_rock_03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 3.png
+
+newmtl stylized_rock_04
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 4.png
+
+newmtl stylized_rock_05
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 5.png
+
+newmtl stylized_rock_06
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 6.png
+
+newmtl stylized_rock_07
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 7.png
+
+newmtl stylized_rock_08
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 8.png
+
+newmtl stylized_rock_09
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 9.png
+
+newmtl stylized_rock_10
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 10.png
+
+newmtl stylized_rock_11
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 11.png
+
+newmtl stylized_rock_12
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 12.png
+
+newmtl stylized_rock_13
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 13.png
+
+newmtl stylized_rock_14
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 14.png
+
+newmtl stylized_rock_15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 15.png
+
+newmtl stylized_rock_16
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 16.png
+
+newmtl stylized_rock_17
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 17.png
+
+newmtl stylized_rock_18
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 18.png
+
+newmtl stylized_rock_19
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 19.png
+
+newmtl stylized_rock_20
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 20.png
+
+newmtl stylized_rock_21
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 21.png
+
+newmtl stylized_rock_22
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 22.png
+
+newmtl stylized_rock_23
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 23.png
+
+newmtl stylized_rock_24
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 24.png
+
+newmtl stylized_rock_25
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 25.png
+
+newmtl stylized_rock_26
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 26.png
+
+newmtl stylized_rock_27
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 27.png
+
+newmtl stylized_rock_28
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 28.png
+
+newmtl stylized_rock_29
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 29.png
+
+newmtl stylized_rock_30
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 30.png
+
+newmtl stylized_rock_31
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 31.png
+
+newmtl stylized_rock_32
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 32.png
+
+newmtl stylized_rock_33
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 33.png
+
+newmtl stylized_rock_34
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 34.png
+
+newmtl stylized_rock_35
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 35.png
+
+newmtl stylized_rock_36
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 36.png
+
+newmtl stylized_rock_37
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 37.png
+
+newmtl stylized_rock_38
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 38.png
+
+newmtl stylized_rock_39
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 39.png
+
+newmtl stylized_rock_40
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 40.png
+
+newmtl stylized_rock_41
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 41.png
+
+newmtl stylized_rock_42
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 42.png
+
+newmtl stylized_rock_43
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 43.png
+
+newmtl stylized_rock_44
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 44.png
+
+newmtl stylized_rock_45
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 45.png
+
+newmtl stylized_rock_46
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 46.png
+
+newmtl stylized_rock_47
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 47.png
+
+newmtl stylized_rock_48
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 48.png
+
+newmtl stylized_rock_49
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 49.png
+
+newmtl stylized_rock_50
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 50.png
+
+newmtl stylized_rock_51
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 51.png
+
+newmtl stylized_rock_52
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 52.png
+
+newmtl stylized_rock_53
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 53.png
+
+newmtl stylized_rock_54
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 54.png
+
+newmtl stylized_rock_55
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 55.png
+
+newmtl stylized_rock_56
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 56.png
+
+newmtl stylized_rock_57
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 57.png
+
+newmtl stylized_rock_58
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 58.png
+
+newmtl stylized_rock_59
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 59.png
+
+newmtl stylized_rock_60
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 60.png
+
+newmtl stylized_rock_61
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 61.png
+
+newmtl stylized_rock_62
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 62.png
+
+newmtl stylized_rock_63
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 63.png
+
+newmtl stylized_rock_64
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 64.png
+
+newmtl stylized_rock_65
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 65.png
+
+newmtl stylized_rock_66
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 66.png
+
+newmtl stylized_rock_67
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 67.png
+
+newmtl stylized_rock_68
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 68.png
+
+newmtl stylized_rock_69
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 69.png
+
+newmtl stylized_rock_70
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Ondra\\Downloads\\70-stylized-rocks\\Stylized rocks\\stylized rock 70.png
